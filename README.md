@@ -17,6 +17,8 @@ after download extract to Xampp folder under htdocs with any name for ex Event
 
 Open Localhost/phpmyadmin/ in browser and create new database with year2project name thn import database file year2project.sql
 
+[Database]("https://github.com/ganeshkavhar/Event-Planner-PHP-Project/blob/main/year2project.sql")
+
 ## Run Project
 
 Lets open the Browser and type Localhost/Event/
@@ -29,3 +31,15 @@ Lets open the Browser and type Localhost/Event/
 # Developer 
 
 [ganesh kavhar](https://about.me/ganeshkavhar)
+
+Ganesh Kavhar ,<br />
+Pune, Maharashtra, India.<br />
+
+
+# Donation
+
+If you have found my softwares to be of any use to you, do consider helping me pay my internet bills. This would encourage me to create many such softwares :)
+
+| PayPal | <a href="https://www.paypal.com/paypalme/ganeshkavhar" target="_blank"><img src="https://www.paypalobjects.com/webstatic/mktg/logo/AM_mc_vs_dc_ae.jpg" alt="Donate via PayPal!" title="Donate via PayPal!" /></a> |
+|:-------------------------------------------:|:-------------------------------------------------------------:|
+| ₹ (INR)  | <a href="https://www.instamojo.com/@ganeshkavhar/" target="_blank"><img src="https://www.soldermall.com/images/pic-online-payment.jpg" alt="Donate via Instamojo" title="Donate via instamojo" /></a> |
