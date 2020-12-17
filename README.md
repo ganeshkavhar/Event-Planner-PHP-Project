@@ -4,7 +4,10 @@ Event Management System" is a web-based project. This system organizes the event
 
 ## Download Project
 
-Download a project from github [https://github.com/ganeshkavhar/Event-Planner-PHP-Project/]
+Download a project from github 
+
+[Download Project](https://github.com/ganeshkavhar/Event-Planner-PHP-Project/)
+
 
 ## Import 
 
