@@ -4,7 +4,7 @@ Event Management System" is a web-based project. This system organizes the event
 
 ## Download Project
 
-Download a project from github ![https://github.com/ganeshkavhar/Event-Planner-PHP-Project/]
+Download a project from github [https://github.com/ganeshkavhar/Event-Planner-PHP-Project/]
 
 ## Import 
 
@@ -17,6 +17,9 @@ Open Localhost/phpmyadmin/ in browser and create new database with year2project 
 ## Run Project
 
 Lets open the Browser and type Localhost/Event/
+
+
+![Screenshot 2020-12-17 at 5 24 10 AM](https://user-images.githubusercontent.com/20369800/102421370-4ed02500-402a-11eb-8e68-96aab7a9b783.png)
 
 
 
