@@ -17,7 +17,6 @@ after download extract to Xampp folder under htdocs with any name for ex Event
 
 Open Localhost/phpmyadmin/ in browser and create new database with year2project name thn import database file year2project.sql
 
-[Database]("https://github.com/ganeshkavhar/Event-Planner-PHP-Project/blob/main/year2project.sql")
 
 ## Run Project
 
