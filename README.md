@@ -30,9 +30,7 @@ Lets open the Browser and type Localhost/Event/
 
 # Developer 
 
-[ganesh kavhar](https://about.me/ganeshkavhar)
-
-Ganesh Kavhar ,<br />
+[ganesh kavhar](https://about.me/ganeshkavhar) ,<br />
 Pune, Maharashtra, India.<br />
 
 
